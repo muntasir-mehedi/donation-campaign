@@ -10,21 +10,21 @@ const Header = () => {
                 </div>
                 <div>
                     <ul className="flex">
-                        <li className="p-2"><NavLink
+                        <li className="p-2 text-sm font-semibold"><NavLink
                             to="/"
                             className={({ isActive, isPending }) =>
                                 isPending ? "pending" : isActive ? "text-red-500 underline" : ""
                             }>Home</NavLink>
                         </li>
 
-                        <li className="p-2"><NavLink
+                        <li className="p-2 text-sm font-semibold"><NavLink
                             to="/donation"
                             className={({ isActive, isPending }) =>
                                 isPending ? "pending" : isActive ? "text-red-500 underline" : ""
                             }>Donation</NavLink>
                         </li>
 
-                        <li className="p-2"><NavLink
+                        <li className="p-2 text-sm font-semibold"><NavLink
                             to="/statistics"
                             className={({ isActive, isPending }) =>
                                 isPending ? "pending" : isActive ? "text-red-500 underline" : ""
