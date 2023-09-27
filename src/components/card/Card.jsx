@@ -5,7 +5,7 @@ const Card = ({ card }) => {
     const { id, img, category, title, background_color, category_color, title_color } = card || {};
     return (
         <Link to={`/showdetails/${id}`}>
-            <div className="card w-72 rounded-lg border border-x-lime-400" style={{ backgroundColor: background_color }}>
+            <div className="card w-72 rounded-lg" style={{ backgroundColor: background_color }}>
                 <div className="rounded-lg overflow-hidden">
                     <img className="w-72 h-48" src={img} alt="photo" />
                 </div>
