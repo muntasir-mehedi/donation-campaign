@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/8mCL99J/Rectangle-4284.png",
+      "category": "Health",
+      "title": "Clean water for children",
+      "description": "Maintaining good health is essential for a fulfilling life. It involves a balanced diet, regular exercise, sufficient sleep, and mental well-being. Health enables us to pursue our passions, achieve goals, and enjoy life's moments. Regular check-ups and healthy habits are vital for preventing illness and promoting longevity and vitality.",
+      "price": 499.99,
+      "background_color": "#bfdbfe",
+      "category_color": "#93c5fd",
+      "title_color": "#2563eb"
+      
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/ZX2HWWT/Rectangle-4287-1.png",
+      "category": "Education",
+      "title": "Good education",
+      "description": "A good education is the foundation for personal growth and societal progress. It equips individuals with knowledge, critical thinking skills, and the ability to adapt to an ever-changing world. A quality education promotes empathy, creativity, and problem-solving, empowering individuals to contribute positively to society and pursue their dreams.",
+      "price": 19.99,
+      "background_color": "#fee2e2",
+      "category_color": "#fecaca",
+      "title_color": "#dc2626"
+      
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/FqqZJ98/Rectangle-4287.png",
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Clothing is essential for the well-being of underprivileged children. In impoverished communities, access to proper attire is often limited, impacting their self-esteem and health. Donations of clothing can make a significant difference, providing warmth, protection, and a sense of dignity to these vulnerable youngsters, fostering a brighter future.",
+      "price": 29.99,
+      "background_color": "#d9f99d",
+      "category_color": "#a3e635",
+      "title_color": "#65a30d"
+      
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/1dV7b4r/Rectangle-4287-2.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Providing nourishing meals to underprivileged children is essential for their growth and development. Access to good food, rich in nutrients, not only alleviates hunger but also enhances their overall health and educational outcomes. Initiatives that prioritize feeding programs can make a profound difference in the lives of these children, giving them a brighter future.",
+      "price": 12.99,
+      "background_color": "#fee2e2",
+      "category_color": "#fecaca",
+      "title_color": "#dc2626"
+      
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/1dV7b4r/Rectangle-4287-2.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Providing nourishing meals to underprivileged children is essential for their growth and development. Access to good food, rich in nutrients, not only alleviates hunger but also enhances their overall health and educational outcomes. Initiatives that prioritize feeding programs can make a profound difference in the lives of these children, giving them a brighter future.",
+      "price": 12.99,
+      "background_color": "#fee2e2",
+      "category_color": "#fecaca",
+      "title_color": "#dc2626"
+      
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/FqqZJ98/Rectangle-4287.png",
+        "category": "Clothing",
+        "title": "Used Clothing Drive",
+        "description": "Clothing is essential for the well-being of underprivileged children. In impoverished communities, access to proper attire is often limited, impacting their self-esteem and health. Donations of clothing can make a significant difference, providing warmth, protection, and a sense of dignity to these vulnerable youngsters, fostering a brighter future.",
+        "price": 29.99,
+        "background_color": "#d9f99d",
+        "category_color": "#a3e635",
+        "title_color": "#65a30d"
+        
+      },
+      {
+        "id": 7,
+        "img": "https://i.ibb.co/ZX2HWWT/Rectangle-4287-1.png",
+        "category": "Education",
+        "title": "Good education",
+        "description": "A good education is the foundation for personal growth and societal progress. It equips individuals with knowledge, critical thinking skills, and the ability to adapt to an ever-changing world. A quality education promotes empathy, creativity, and problem-solving, empowering individuals to contribute positively to society and pursue their dreams.",
+        "price": 19.99,
+        "background_color": "#fee2e2",
+        "category_color": "#fecaca",
+        "title_color": "#dc2626"
+        
+      },
+      {
+        "id": 8,
+        "img": "https://i.ibb.co/8mCL99J/Rectangle-4284.png",
+        "category": "Health",
+        "title": "Clean water for children",
+        "description": "Maintaining good health is essential for a fulfilling life. It involves a balanced diet, regular exercise, sufficient sleep, and mental well-being. Health enables us to pursue our passions, achieve goals, and enjoy life's moments. Regular check-ups and healthy habits are vital for preventing illness and promoting longevity and vitality.",
+        "price": 499.99,
+        "background_color": "#bfdbfe",
+        "category_color": "#93c5fd",
+        "title_color": "#2563eb"
+        
+      },
+      {
+        "id": 9,
+        "img": "https://i.ibb.co/8mCL99J/Rectangle-4284.png",
+        "category": "Health",
+        "title": "Clean water for children",
+        "description": "Maintaining good health is essential for a fulfilling life. It involves a balanced diet, regular exercise, sufficient sleep, and mental well-being. Health enables us to pursue our passions, achieve goals, and enjoy life's moments. Regular check-ups and healthy habits are vital for preventing illness and promoting longevity and vitality.",
+        "price": 499.99,
+        "background_color": "#bfdbfe",
+        "category_color": "#93c5fd",
+        "title_color": "#2563eb"
+        
+      },
+      {
+        "id": 10,
+        "img": "https://i.ibb.co/ZX2HWWT/Rectangle-4287-1.png",
+        "category": "Education",
+        "title": "Good education",
+        "description": "A good education is the foundation for personal growth and societal progress. It equips individuals with knowledge, critical thinking skills, and the ability to adapt to an ever-changing world. A quality education promotes empathy, creativity, and problem-solving, empowering individuals to contribute positively to society and pursue their dreams.",
+        "price": 19.99,
+        "background_color": "#fee2e2",
+        "category_color": "#fecaca",
+        "title_color": "#dc2626"
+        
+      },
+      {
+        "id": 11,
+        "img": "https://i.ibb.co/FqqZJ98/Rectangle-4287.png",
+        "category": "Clothing",
+        "title": "Used Clothing Drive",
+        "description": "Clothing is essential for the well-being of underprivileged children. In impoverished communities, access to proper attire is often limited, impacting their self-esteem and health. Donations of clothing can make a significant difference, providing warmth, protection, and a sense of dignity to these vulnerable youngsters, fostering a brighter future.",
+        "price": 29.99,
+        "background_color": "#d9f99d",
+        "category_color": "#a3e635",
+        "title_color": "#65a30d"
+        
+      },
+      {
+        "id": 12,
+        "img": "https://i.ibb.co/1dV7b4r/Rectangle-4287-2.png",
+        "category": "Food",
+        "title": "Better Food for Everyone",
+        "description": "Providing nourishing meals to underprivileged children is essential for their growth and development. Access to good food, rich in nutrients, not only alleviates hunger but also enhances their overall health and educational outcomes. Initiatives that prioritize feeding programs can make a profound difference in the lives of these children, giving them a brighter future.",
+        "price": 12.99,
+        "background_color": "#fee2e2",
+        "category_color": "#fecaca",
+        "title_color": "#dc2626"
+        
+      }
+]
+  
