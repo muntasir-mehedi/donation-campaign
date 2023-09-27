@@ -24,7 +24,7 @@ const Donation = () => {
             : 
             <div>
 
-                <div className="grid grid-cols-2 md:grid-cols-3 gap-5 py-8">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-5 py-8">
                     {
                         isShow ? donation?.map(card=><Card key={card.id} card={card}></Card>)
                         :
