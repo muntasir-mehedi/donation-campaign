@@ -5,7 +5,7 @@ const Input = () => {
 
     return (
         <div className="hero h-80 " style={{ backgroundImage: 'url(https://i.ibb.co/FqqZJ98/Rectangle-4287.png)' }} >
-            <div className="bg-white bg-opacity-70">
+            <div className="">
                 <div className="">
                     <h1 className="mb-5 text-5xl font-bold text-black">I Grow By Helping People In Need</h1>
                     <div className="flex items-center justify-center">
